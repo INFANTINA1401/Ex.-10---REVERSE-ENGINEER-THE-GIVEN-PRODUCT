@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![input empd](https://github.com/Sellakumar1987/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/89059861/96152bbc-36f7-4048-b705-5e95ac623473)
+
 
 ### Output:
+![image](https://github.com/Sellakumar1987/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/89059861/d7134eb3-5340-4f96-9213-63041eefc007)
 
 
-### Name:
-### Register Number:
+### Name: Arshitha MS
+### Register Number:23014017
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
