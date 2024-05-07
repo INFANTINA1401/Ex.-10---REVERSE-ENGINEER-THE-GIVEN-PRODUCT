@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 18.12.2023
+### DATE:
 
 ## AIM: 
 To reverse engineering the product and prototyping the same in 3D printer.
@@ -35,8 +35,8 @@ To reverse engineering the product and prototyping the same in 3D printer.
 ### Output:
 ![WhatsApp Image 2023-12-24 at 16 40 10_5ab6b9b1](https://github.com/Raji1009/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/89059861/d1a8c2c5-e1c9-4c89-af31-2de55a5a8e33)
 
-### Name: Rajalakshmi R
-### Register Number: 23013958
+### Name:INFANTINA MARIA L
+### Register Number: 212223100013
 
 ## RESULT:
   Thus the given product is reverse engineered and prototyped using 3D Printer.
